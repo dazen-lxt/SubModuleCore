@@ -1,5 +1,5 @@
 import Foundation
 
-class CoreInfo {
-    static var version = "Core_101"
+public class CoreInfo {
+    public static var version = "Core_101"
 }
